@@ -94,7 +94,7 @@ function showSecondPage() {
     secondPage.className = 'second-page';
     secondPage.innerHTML = `
         <div class="celebration-container">
-            <h1>🎉 เค้ารู้อยู่แล้วว่าจะคอบอันนี้🤗🤗🤗 🎉</h1>
+            <h1>🎉 เค้ารู้อยู่แล้วว่าจะตอบอันนี้🤗🤗🤗 🎉</h1>
             <div class="love-message">
                 <p>เย้ แฟนรักเค้าาา 💕</p>
                 <p class="subtitle">แฟนใครน่ารักจังงงเลย</p>
